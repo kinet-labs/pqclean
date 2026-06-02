@@ -1,5 +1,17 @@
 # PQClean
 
+## Kinet Fork
+
+This is a Kinet Industries fork of the canonical upstream:
+- **Upstream**: https://github.com/PQClean/PQClean
+- **Pinned commit**: `3730b32a` (snapshot 2026-04-28)
+- **Pinned tag**: `v1.0.0`
+- **License**: per-implementation (CC0 / public domain / MIT — preserved from upstream — see `LICENSE-NOTICE.md`)
+- **Kinet extensions**: NONE (verbatim snapshot of upstream).
+- **Tag policy**: track upstream semver verbatim. Divergence (if ever required) signaled by next-minor bump, NOT prerelease suffixes.
+
+---
+
 > [!WARNING]
 > **Deprecation Notice:** [PQClean is no longer under active maintenance and we plan to archive it as read-only in July 2026](https://github.com/PQClean/PQClean/issues/604).
 > For maintained implementations of standardized PQC, you may want to consider the [PQ Code Package](https://github.com/pq-code-package).
